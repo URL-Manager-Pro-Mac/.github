@@ -22,7 +22,7 @@ URL Manager Pro is optimized for all Mac models, including MacBook Air, MacBook 
 
 Whether you're managing project references, curating content, or organizing personal bookmarks, URL Manager Pro delivers speed, efficiency, and clarity.
 
-![URL Manager Pro Screenshot](https://static.macupdate.com/screenshots/349991/m/url-manager-pro-screenshot.png?v=1671019127)
+![URL Manager Pro Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3DDNfeCn6SsmKdj1djPTUO6pIXB6tg0tB9w&s)
 
 ---
 
